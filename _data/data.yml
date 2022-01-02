@@ -47,12 +47,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Linux System Administrator/DevOps and Automation engineer who loves to Automate, 
+      Virtualize and solve complex problems. First and foremost I love Automation. 
+      Ever since my first automatization of computer installations back in the 90:s. 
+
+      The last few years I have been using ansible, python , vmware, xenserver, AWS, 
+      Digital Ocean and private/hybrid cloud solutions to automate system infrastructure 
+      to solve organisational needs. 
+      I believe that most things can and should be automated to free time for the organisation 
+      to focus on operational growth/new projects.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
