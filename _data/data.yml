@@ -117,25 +117,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a summary of projects I have worked with.
     assignments:
-      - title: Velocity
+      - title: PAAM - Cyberark Privileged Account Activity Management - ScaniaCV AB
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: " Ansible project - Automation of PAAM access handling of all 1600+ VM servers in Sweden and all servers in Brazil"
 
-      - title: DevStudio
+      - title: GitHub >to Gitlab Migration Project - ScaniaCV AB
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "planning and migrating from GitHub to GitLab"
 
-      - title: Tempo
+      - title: Scania License tool deployment
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Ansible project - A License handling project, Design and coding for automatic deployment of the License Tool application for all Linux servers."
 
-      - title: Atom
+      - title: AtomAnsible Tower - ScaniaCV AB
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "setting up AT cluster with HA database environment, Automatic Deployment and Ansible Tower (Responsible / contact person)."
 
       - title: Delta
         link: "#"
