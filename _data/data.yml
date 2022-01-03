@@ -10,6 +10,7 @@ sidebar:
     name: Johan Sörell
     tagline: Linux System Administrator/DevOps and Automation engineer 
     avatar: jsorell100x145.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    qrcode: qrcode_j-sirl.github.io.png
 
     # Sidebar links
     email: sorell.johan@gmail.com
@@ -101,14 +102,14 @@ experiences:
       company: S.T.Q Consulting AB
       details: |
         Founder of S.T.Q Consulting AB
-    - role: Automation Lead - Lexher Consultant
+    - role: Automation Lead 
       time: 2020 - 2020
-      company: Fujitsu
+      company: Fujitsu - Lexher Consultant
       details: |
         Automation Lead
-    - role: Senior Linux System Administrator / Ansible specialist - Lexher Consultant
+    - role: Senior Linux System Administrator / Ansible specialist 
       time: 2017 - 2019
-      company: ScaniaCV AB
+      company: ScaniaCV AB - Lexher Consultant
       details: |
         Senior Linux/ resource at the Scania IT department supporting the Linux Server
         Platform and Automation using Ansible. Since 2018, worked 100% with Ansible 
