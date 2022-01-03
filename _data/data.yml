@@ -133,11 +133,24 @@ projects:
 
       - title: AtomAnsible Tower - ScaniaCV AB
         link: "#"
-        tagline: "setting up AT cluster with HA database environment, Automatic Deployment and Ansible Tower (Responsible / contact person)."
+        tagline: "Setting up AT cluster with HA database environment, Automatic Deployment and Ansible Tower (Responsible / contact person)."
 
-      - title: Delta
+      - title: Patching project - ScaniaCV AB
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Ansible project - Resposible for the patching process and wrote the health check and patching ansible roles (2700 vms)"
+
+      - title: Patching project BRASIL - ScaniaCV AB
+        link: "#"
+        tagline: "Ansible project - Contact person for integration of BRASIL server patching"
+
+      - title: Automatic Deployment - ScaniaCV AB
+        link: "#"
+        tagline: "Ansible projects - ManageIQ api, Satellite 5 and 6, VMWare, RHEV 3.6 RHEV 4.2 "
+
+      - title: POC - OpenScap - ScaniaCV AB
+        link: "#"
+        tagline: "Proof of concept project - for using and automating OpenScap - ScaniaCV AB"
+
 
 publications:
     title: Publications
