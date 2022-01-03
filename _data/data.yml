@@ -81,9 +81,9 @@ education:
    #       - Bullet point
    #       - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Linux System Administrator
+      time: 2017 - Present
+      company: Lexher AB, Stockholm
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,28 +96,24 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: CEO/Founder
+      time: 2016 - 2021
+      company: S.T.Q Consulting AB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Founder of S.T.Q Consulting AB
+    - role: Automation Lead - Lexher Consultant
+      time: 2020 - 2020
+      company: Fujitsu
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Automation Lead
+    - role: Senior Linux System Administrator / Ansible specialist
+      time: 2017 - 2019
+      company: Fujitsu
+      details: |
+        Senior Linux/ resource at the Scania IT department supporting the Linux Server
+        Platform and Automation using Ansible. Since 2018, worked 100% with Ansible 
+        in various infrastructure projects but also became the contact person for 
+        multiple other projects or departments using Ansible on Scania.
 projects:
     title: Projects
     intro: >
