@@ -191,6 +191,9 @@ projects:
       - title: owned and operated euradio.se 2005 - 2008
         link: "#"
         tagline: "Euradio.se was an internetradio that had four channels streaming 24/7"
+      - title: Install Terraform - Ansible project
+        link: "https://github.com/J-SirL/install_terraform"
+        tagline: "Install Terraform is a ansible project for installing latest Terraform including Terraform KVM examples"
 
 
 publications:
