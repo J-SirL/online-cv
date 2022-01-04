@@ -115,6 +115,43 @@ experiences:
         Platform and Automation using Ansible. Since 2018, worked 100% with Ansible 
         in various infrastructure projects but also became the contact person for 
         multiple other projects or departments using Ansible on Scania.
+    - role: Senior System Administrator
+      time: 2013 - 2016
+      company: ASSA ABLOY Group
+      details: |
+        Responsible for Infrastructure design and operations of 3 locations with 120+ users 
+        Including daily operation. In charge of all major IT projects.
+    - role: Senior System Administrator
+      time: 2012 - 2013
+      company: ASSA ABLOY Group - DFIND IT consultant
+      details: |  
+         Supported 4 Sites with 120+ users, Network, Servers, Infrastructure and daily IT operations.
+    - role: Webmaster - PHP programmer
+      time: 2010 - 2012
+      company: KTH School of Electric Engineering - DFIND IT consultant
+      details: |  
+        Webmaster (Apache, Mysql and PHP) and System Administrator at  
+        Kungliga Tekniska Högskolan at school of electric engineering.
+    - role: IT Consultant
+      time: 2010 - 2013
+      company: DFIND IT
+      details: |  
+         Consultant - Assignment listed above.
+    - role: IT-technican
+      time: 2008 - 2009
+      company: Kuusakoski Sverige AB
+      details: |  
+        I was hired on a 6 month assignment to go through and secure the entire IT environment 
+        for kouusakoski Sweden AB. Everything from the Desktop and laptop to servers, networks,
+        VPN, backup solution, AD and weighing machines across Sweden where they have sites.
+
+        Also arranged support cases that came to me, though I was not primarily recruited for 
+        this function. I created a completely new login script in VBScript to facilitate the 
+        inventory of computers and see what programs are installed and make it easier for 
+        IT staff to troubleshoot and see what computers and IP addresses of users are sitting on, etc. 
+        environment consisted of Lotus Notes, MS SQL, Windows XP , Windows 2003, VMware, Citrix, Cisco VPN
+
+
 projects:
     title: Projects
     intro: >
