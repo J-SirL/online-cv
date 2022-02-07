@@ -86,8 +86,11 @@ experiences:
       time: 2022 - Present
       company: SEB - ( Consultant )
       details: | 
-        Automation of infrastructure Ansible, ( satellite, Ansible Tower )
-        miration projects from puppet to ansible etc etc.
+        Automation of infrastructure:
+        - Ansible
+        - Satellite
+        - Ansible Tower 
+        - miration projects from puppet to ansible.
     - role: Senior Linux System Administrator
       time: 2017 - Present
       company: Lexher AB, Stockholm
