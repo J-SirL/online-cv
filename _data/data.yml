@@ -82,21 +82,23 @@ education:
    #       - Bullet point
    #       - Bullet point
 experiences:
+    - role: Ansible automation engineer - Linux Dev
+      time: 2022 - Present
+      company: SEB - ( Consultant )
+      details: | 
+        Automation of infrastructure Ansible, ( satellite, Ansible Tower )
+        miration projects from puppet to ansible etc etc.
     - role: Senior Linux System Administrator
       time: 2017 - Present
       company: Lexher AB, Stockholm
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Linux Engineer/ Automation Engineer consultant. Been working with the following during the last 5 years.
+          - Automation ( Ansible, Terraform )
+          - Ansible Tower
+          - Satellite
+          - Python
+          - RHEL 7,8
+          - Virtualization ( VMWare, RHEV, KVM )
     - role: CEO/Founder
       time: 2016 - 2021
       company: S.T.Q Consulting AB
