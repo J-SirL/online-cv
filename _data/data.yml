@@ -90,7 +90,7 @@ experiences:
         - Ansible
         - Satellite
         - Ansible Tower 
-        - miration projects from puppet to ansible.
+        - migration projects from puppet to ansible.
     - role: Senior Linux System Administrator
       time: 2017 - Present
       company: Lexher AB, Stockholm
